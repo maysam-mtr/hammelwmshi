@@ -1,2 +1,2 @@
 # hammelwmshi
-Website design practice for HammelwMshi , a hypothetical transportation company.
+Software proposal & Website design practice for HammelwMshi , a hypothetical transportation company.
